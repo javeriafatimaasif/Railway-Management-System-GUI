@@ -1,0 +1,3 @@
+<Solution>
+  <Project Path="RAILWAY GUI/RAILWAY GUI.csproj" Id="42ecb358-0f00-43c1-81d6-4fefbbdf9cc0" />
+</Solution>
